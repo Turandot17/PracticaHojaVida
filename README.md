@@ -1,2 +1,1 @@
-"Realizando PULL al Servidor Remoto".
-Nuevo Archivo
+"Realizando PUSH al Servidor Remoto".
